@@ -1,0 +1,31 @@
+# Overview:
+
+The Sales Dashboard project in Excel focuses on analyzing sales data based on various product categories.
+The goal is to create a comprehensive dashboard that provides insights into sales performance, profit, and regional trends.
+
+The project utilizes the E-Commerce Dashboard dataset, which contains information such as order IDs, dates, product categories, 
+sales amounts, quantities, and more. The dataset serves as the foundation for analyzing and visualizing sales data.
+
+# Key Tasks:
+
+1) Month-wise Sales and Profit Analysis: The project involves preparing a table that showcases sales and profit month-wise. 
+This analysis helps identify trends and patterns in sales performance over time.
+
+) Region-wise Sales Analysis: Another important aspect is preparing a region-wise sales table. This allows for the examination 
+of sales performance across different regions, providing valuable insights into geographic variations.
+
+3) User Control Combo Box: To enhance user interactivity, a user control combo box is implemented for selecting specific product 
+categories. This functionality allows users to dynamically view sales trends and performance for different product categories.
+
+4) Column Chart Creation: Utilizing the month-wise and region-wise tables, a column chart is generated. The column chart visually 
+represents the sales data, making it easier to identify trends, compare categories, and highlight patterns.
+
+5) Linking the Table with the Combo Box: The generated tables are linked with the user control combo box. This linkage ensures that 
+the displayed data in the tables is dynamically updated based on the selected product category.
+
+6) Dashboard Creation: Finally, all the components, including the tables, combo box, and column chart, are combined to create a 
+comprehensive sales dashboard. The dashboard provides an overview of sales performance, allowing users to gain insights at a glance.
+
+The project requires proficiency in Microsoft Excel and the utilization of relevant features and tools, such as data analysis 
+add-ins. By completing this project, I will demonstrated the ability to analyze sales data, create interactive visualizations, and
+design an informative sales dashboard.
