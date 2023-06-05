@@ -11,7 +11,7 @@ sales amounts, quantities, and more. The dataset serves as the foundation for an
 1) Month-wise Sales and Profit Analysis: The project involves preparing a table that showcases sales and profit month-wise. 
 This analysis helps identify trends and patterns in sales performance over time.
 
-) Region-wise Sales Analysis: Another important aspect is preparing a region-wise sales table. This allows for the examination 
+2) Region-wise Sales Analysis: Another important aspect is preparing a region-wise sales table. This allows for the examination 
 of sales performance across different regions, providing valuable insights into geographic variations.
 
 3) User Control Combo Box: To enhance user interactivity, a user control combo box is implemented for selecting specific product 
